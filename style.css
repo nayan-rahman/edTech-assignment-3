@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    letter-spacing: 0.6px;
+    color: #495057;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+/* h1 {
+    font-size: 4vw;
+  } */
+/* h2 {
+    font-size: 3vw;
+  } */
